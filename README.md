@@ -86,7 +86,7 @@ This project, **Task 4** of my **SkillCraft Technology Internship - Data Science
 **Arous**  
 SkillCraft Technology Intern - Data Science  
 📅 Completed: June 27, 2025  
-📧 Contact: [Your Email(shubhamkuya@gmail.com)/[LinkedIn](https://www.linkedin.com/in/shubham-kumar-46422128a/)]  
+📧 Contact: [Email](shubhamkuya@gmail.com)/[LinkedIn](https://www.linkedin.com/in/shubham-kumar-46422128a/)  
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
