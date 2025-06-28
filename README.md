@@ -41,6 +41,7 @@ This project, **Task 4** of my **SkillCraft Technology Internship - Data Science
 ![Weather Conditions](weather_conditions.png)
 ![Road Conditions](road_conditions.png)
 ![Hourly Trends](hourly_trends.png)
+![Map Analysis](map.png)
 
 ## 🛠️ Tools & Techniques Used
 ![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=flat-square&logo=python)  
@@ -58,6 +59,7 @@ This project, **Task 4** of my **SkillCraft Technology Internship - Data Science
 - `weather_conditions.png`: Bar chart of top weather conditions.
 - `road_conditions.png`: Bar chart of road condition impacts.
 - `hourly_trends.png`: Line chart of hourly accident trends.
+- `HTML MAP FILE LINK`: https://drive.google.com/file/d/1bNiQeCDnbVzTNY2S7rDPL6bIO0xZ6N_l/view?usp=sharing.
 
 ## 🚀 How to Run
 1. **Clone the Repository**:
